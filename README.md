@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brenda-reverb
-- 👀 I’m interested in javascript, AI and 
+- 👀 I’m interested in javascript, AI and everything web development
 - 🌱 I’m currently learning about materials to print labels
 - 💞️ I’m looking to collaborate on improving products
 
